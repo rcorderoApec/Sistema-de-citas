@@ -4,7 +4,7 @@ function Citas() {
             <div className="row">
             <div className="mb-3 col-lg-4">
                 <label for="name" class="form-label">Nombre del paciente</label>
-                <input type="password" class="form-control" id="name" aria-describedby="name"/>
+                <input type="text" class="form-control" id="name"/>
             </div>
             <div className="mb-3 col-lg-4">
             <label for="Especialidad" class="form-label">Especialidad</label>
